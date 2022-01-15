@@ -1,0 +1,54 @@
+body{
+    background-color: #fafafa;
+}
+
+.topo-9CAMP{
+    width: 100%;
+    height: 64px;
+
+    background-color: #333333;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meme-dog, .meme-symptoms, .meme-mae, .meme-planet, .meme-bus, .footer{
+    width: 640px;
+    height: auto;
+
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+
+    border: 1px solid #EAEAEA;
+
+    box-shadow: 0 0 1em rgb(138, 138, 137);
+}
+
+.config-img{
+    width: 640px;
+}
+
+h1{
+    color: #aa4653;
+    
+    font-size: 48px;
+    font-weight: bold;
+
+    margin: 30px;
+}
+
+p{
+    color: #000000;
+
+    font-size: 16px;
+
+    margin: 0px 30px 30px 30px;
+}
+
+.footer{
+    margin-bottom: 50px;
+}
